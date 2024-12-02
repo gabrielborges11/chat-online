@@ -1,4 +1,4 @@
-##Instalação
+<h2>Instalação</h2>
 <br>
 <ul>
   <li>Inicie o servidor: node server</li>
